@@ -1,0 +1,30 @@
+input[type=text], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=submit] {
+    width: 30%;
+    background-color: #a2bea3;
+    color: white;
+    padding: 14px 20px;
+    margin-left: 200px;
+    border:brown;
+    border-radius: 12px;
+    cursor: pointer;
+  }
+  .a {
+      width: 365px;
+      margin-top:20px ;
+      background-color: coral;
+      padding: 14px 20px;
+      border-radius: 12px;
+      text-align: center;
+      margin-left:200px ;
+      font-style: oblique;
+      font:small-caps;
+  }
