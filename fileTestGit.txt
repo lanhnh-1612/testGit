@@ -1,2 +1,5 @@
 file này tạo ra để test Git cơ bản
 câu này viết ở testBranch
+Đây là 1 câu mới
+Câu này viết ở test2Branch
+
